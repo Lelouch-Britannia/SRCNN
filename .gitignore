@@ -8,6 +8,23 @@ env.bak/
 venv.bak/
 Code/Helper/__pycache__/
 
+# Data Directory
+Data
+
+# Code Sub-Directories
+Code/wandb
+Code/Config
+Code/artifacts
+
+# Metrics Directory 
+Metrics
+
+# Model Directory
+Models
+
+# vscode 
+.vscode
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
@@ -17,7 +34,6 @@ ipython_config.py
 
 # pyenv
 .python-version
-
 
 # Distribution / packaging
 .Python
